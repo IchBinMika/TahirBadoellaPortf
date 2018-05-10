@@ -1,0 +1,21 @@
+Portfolio Modal HTML
+
+
+This is the section where whenever you have a new video you want to showcase on your main portfolio, you must make adjusting changes.
+
+In front of you is an example of the first modal. Modals are the content boxes that will show up on your screen, similar to lightboxes.
+
+On the Green Highlight Boxed Text, this is where you write your Project's.
+
+Lorem Ipsum is the Subtitle.
+
+
+
+
+On the yellow highlight, this is the code to remove borders, play button and the link to transfer you to the YouTube website.
+
+
+
+On the Blue Highlight, you will use this area for the descriptions of the video, the dates, the client, as well as the category.
+
+If there is anything that confuses you, please don't be afraid to give me a call, a text, or email.
